@@ -1,0 +1,8 @@
+[package]
+name = "rf2_result_dashboard"
+version = "0.0.1"
+authors = ["Daniel Weiss <klugschmierer@gmail.com>"]
+
+[dependencies]
+serde = { version = "1.0", features = [ "derive" ] }
+quick-xml = { version = "0.17", features = [ "serialize" ] }

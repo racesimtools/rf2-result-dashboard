@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rF [
+<!ENTITY rFEnt "rFactor Entity">
+]>
+<rFactorXML version="1.0">
+    <RaceResults>
+        <Setting>Multiplayer</Setting>
+        <ServerName>dirty-air-racer.de DAR-Cup</ServerName>
+        <ClientFuelVisible>3</ClientFuelVisible>
+        <PlayerFile>player</PlayerFile>
+        <DateTime>1571590176</DateTime>
+        <TimeString>2019/10/20 18:49:36</TimeString>
+        <Mod>DARcup_S6_R2</Mod>
+        <Season></Season>
+        <TrackVenue>HockenheimRing</TrackVenue>
+        <TrackCourse>HockenheimRing GP</TrackCourse>
+        <TrackEvent>HockenheimRing GP</TrackEvent>
+        <TrackData>D:\SteamLibrary\steamapps\common\rFactor 2\Installed\Locations\T78_Hockenheimring\1.23\HockenheimringGP.mas</TrackData>
+        <TrackLength>4582.8</TrackLength>
+        <GameVersion>1.1115</GameVersion>
+        <Dedicated>0</Dedicated>
+        <ConnectionType upload="256" download="256">Cable/DSL 256 kbps upload</ConnectionType>
+        <RaceLaps>10</RaceLaps>
+        <RaceTime>0</RaceTime>
+        <MechFailRate>1</MechFailRate>
+        <DamageMult>50</DamageMult>
+        <FuelMult>1</FuelMult>
+        <TireMult>1</TireMult>
+        <VehiclesAllowed>*</VehiclesAllowed>
+        <ParcFerme>3</ParcFerme>
+        <FixedSetups>0</FixedSetups>
+        <FreeSettings>0</FreeSettings>
+        <FixedUpgrades>0</FixedUpgrades>
+        <Practice1>
+            <DateTime>1571590182</DateTime>
+            <TimeString>2019/10/20 18:49:42</TimeString>
+            <Laps>2147483647</Laps>
+            <Minutes>165</Minutes>
+            <Stream>
+                <Chat et="0.0">Daniel Weiss has entered the race.</Chat>
+                <Chat et="0.0">[Server]: /w Willkommen auf unserem Server.</Chat>
+                <Chat et="0.0">[Server]: /w www.dirty-air-racer.de</Chat>
+                <Chat et="0.0">[Server]: /w weather powered by Dark Sky</Chat>
+                <Score et="7650.8">Daniel Weiss(12) lap=0 point=1 t=-1.000 et=7650.828</Score>
+                <Score et="7699.1">Daniel Weiss(12) lap=0 point=2 t=-1.000 et=7699.056</Score>
+                <Score et="7733.6">Daniel Weiss(12) lap=1 point=0 t=-1.000 et=7733.546</Score>
+                <Score et="7757.3">Daniel Weiss(12) lap=1 point=1 t=23.766 et=7757.313</Score>
+                <Sector et="7757.3">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="7757.4">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="7805.1">Daniel Weiss(12) lap=1 point=2 t=71.542 et=7805.088</Score>
+                <Sector et="7805.1">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="7805.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="7838.6">Daniel Weiss(12) lap=2 point=0 t=105.018 et=7838.564</Score>
+                <Sector et="7838.6">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Sector et="7838.7">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Incident et="7844.9">Daniel Weiss(12) reported contact (1.00) with Sign</Incident>
+                <Incident et="7844.9">Daniel Weiss(12) reported contact (0.45) with Sign</Incident>
+                <Score et="7861.5">Daniel Weiss(12) lap=2 point=1 t=22.905 et=7861.470</Score>
+                <Sector et="7861.5">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="7861.5">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="7910.1">Daniel Weiss(12) lap=2 point=2 t=71.516 et=7910.080</Score>
+                <Sector et="7910.1">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="7910.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Incident et="7912.2">Daniel Weiss(12) reported contact (0.45) with Immovable</Incident>
+                <Incident et="7912.2">Daniel Weiss(12) reported contact (0.06) with Immovable</Incident>
+                <Incident et="7912.2">Daniel Weiss(12) reported contact (0.10) with Immovable</Incident>
+                <Incident et="7912.2">Daniel Weiss(12) reported contact (0.03) with Immovable</Incident>
+                <Score et="7913.0">Daniel Weiss(12) lap=3 point=0 t=-1.000 et=7913.038</Score>
+                <Sector et="7930.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="7930.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8030.8">Daniel Weiss(12) lap=3 point=1 t=-1.000 et=8030.779</Score>
+                <Score et="8078.2">Daniel Weiss(12) lap=3 point=2 t=-1.000 et=8078.176</Score>
+                <Score et="8111.2">Daniel Weiss(12) lap=4 point=0 t=-1.000 et=8111.170</Score>
+                <Score et="8133.8">Daniel Weiss(12) lap=4 point=1 t=22.658 et=8133.828</Score>
+                <Sector et="8133.8">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="8133.9">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="8181.1">Daniel Weiss(12) lap=4 point=2 t=69.949 et=8181.119</Score>
+                <Sector et="8181.1">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="8181.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8213.9">Daniel Weiss(12) lap=5 point=0 t=102.686 et=8213.855</Score>
+                <Sector et="8213.9">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Sector et="8213.9">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Score et="8236.0">Daniel Weiss(12) lap=5 point=1 t=22.106 et=8235.962</Score>
+                <Sector et="8236.0">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="8236.0">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="8282.9">Daniel Weiss(12) lap=5 point=2 t=69.008 et=8282.863</Score>
+                <Sector et="8282.9">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="8282.9">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8315.9">Daniel Weiss(12) lap=6 point=0 t=102.023 et=8315.879</Score>
+                <Sector et="8315.9">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Sector et="8315.9">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Score et="8338.0">Daniel Weiss(12) lap=6 point=1 t=22.132 et=8338.011</Score>
+                <Sector et="8338.0">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="8338.1">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="8385.4">Daniel Weiss(12) lap=6 point=2 t=69.521 et=8385.400</Score>
+                <Sector et="8385.4">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="8385.5">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8418.1">Daniel Weiss(12) lap=7 point=0 t=102.207 et=8418.086</Score>
+                <Score et="8440.5">Daniel Weiss(12) lap=7 point=1 t=22.439 et=8440.525</Score>
+                <Sector et="8440.5">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="8440.6">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="8487.6">Daniel Weiss(12) lap=7 point=2 t=69.499 et=8487.585</Score>
+                <Sector et="8487.6">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="8487.7">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8520.0">Daniel Weiss(12) lap=8 point=0 t=101.881 et=8519.967</Score>
+                <Sector et="8520.0">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Sector et="8520.0">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Score et="8542.6">Daniel Weiss(12) lap=8 point=1 t=22.650 et=8542.617</Score>
+                <Sector et="8542.6">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="8542.7">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="8589.4">Daniel Weiss(12) lap=8 point=2 t=69.377 et=8589.344</Score>
+                <Sector et="8589.4">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="8589.4">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8622.5">Daniel Weiss(12) lap=9 point=0 t=102.479 et=8622.446</Score>
+                <Score et="8644.5">Daniel Weiss(12) lap=9 point=1 t=22.037 et=8644.483</Score>
+                <Sector et="8644.5">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="8644.5">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="8691.0">Daniel Weiss(12) lap=9 point=2 t=68.515 et=8690.961</Score>
+                <Sector et="8691.0">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="8691.0">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8723.1">Daniel Weiss(12) lap=10 point=0 t=100.621 et=8723.067</Score>
+                <Sector et="8723.1">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Sector et="8723.2">Daniel Weiss(12) set new best for sector 1</Sector>
+                <Score et="8745.3">Daniel Weiss(12) lap=10 point=1 t=22.182 et=8745.249</Score>
+                <Sector et="8745.3">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="8745.3">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="8792.4">Daniel Weiss(12) lap=10 point=2 t=69.358 et=8792.426</Score>
+                <Sector et="8792.4">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="8792.5">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8825.1">Daniel Weiss(12) lap=11 point=0 t=102.058 et=8825.125</Score>
+                <Score et="8847.4">Daniel Weiss(12) lap=11 point=1 t=22.279 et=8847.404</Score>
+                <Sector et="8847.4">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="8847.5">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="8894.6">Daniel Weiss(12) lap=11 point=2 t=69.503 et=8894.628</Score>
+                <Sector et="8894.6">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="8894.7">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="8923.5">Daniel Weiss(12) lap=12 point=0 t=-1.000 et=8923.573</Score>
+                <Score et="8923.5">Daniel Weiss(12) lap=12 point=1 t=-1.000 et=8923.573</Score>
+                <Score et="8923.5">Daniel Weiss(12) lap=12 point=2 t=-1.000 et=8923.573</Score>
+                <Score et="8923.5">Daniel Weiss(12) lap=13 point=0 t=-1.000 et=8923.573</Score>
+                <Score et="9064.8">Daniel Weiss(12) lap=13 point=1 t=-1.000 et=9064.836</Score>
+                <Score et="9112.1">Daniel Weiss(12) lap=13 point=2 t=-1.000 et=9112.136</Score>
+                <Score et="9144.5">Daniel Weiss(12) lap=14 point=0 t=-1.000 et=9144.492</Score>
+                <Score et="9167.1">Daniel Weiss(12) lap=14 point=1 t=22.579 et=9167.071</Score>
+                <Sector et="9167.1">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="9167.2">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="9214.3">Daniel Weiss(12) lap=14 point=2 t=69.828 et=9214.320</Score>
+                <Sector et="9214.3">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="9214.4">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="9246.7">Daniel Weiss(12) lap=15 point=0 t=102.247 et=9246.739</Score>
+                <Score et="9269.4">Daniel Weiss(12) lap=15 point=1 t=22.695 et=9269.435</Score>
+                <Sector et="9269.4">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="9269.5">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="9316.2">Daniel Weiss(12) lap=15 point=2 t=69.420 et=9316.159</Score>
+                <Sector et="9316.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="9316.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="9348.4">Daniel Weiss(12) lap=16 point=0 t=101.629 et=9348.368</Score>
+                <Score et="9370.4">Daniel Weiss(12) lap=16 point=1 t=22.006 et=9370.374</Score>
+                <Sector et="9370.4">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="9370.4">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="9417.2">Daniel Weiss(12) lap=16 point=2 t=68.865 et=9417.233</Score>
+                <Sector et="9417.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="9417.3">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="9450.1">Daniel Weiss(12) lap=17 point=0 t=101.764 et=9450.132</Score>
+                <Score et="9472.7">Daniel Weiss(12) lap=17 point=1 t=22.582 et=9472.714</Score>
+                <Sector et="9472.7">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Sector et="9472.8">Daniel Weiss(12) set new best for sector 2</Sector>
+                <Score et="9519.2">Daniel Weiss(12) lap=17 point=2 t=69.021 et=9519.153</Score>
+                <Sector et="9519.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Sector et="9519.2">Daniel Weiss(12) set new best for sector 3</Sector>
+                <Score et="9555.3">Daniel Weiss(12) lap=18 point=0 t=-1.000 et=9555.321</Score>
+            </Stream>
+            <MostLapsCompleted>18</MostLapsCompleted>
+            <Driver>
+                <Name>Daniel Weiss</Name>
+                <Connected>1</Connected>
+                <VehFile>Daniel Wei�.veh</VehFile>
+                <UpgradeCode>00000000 00000000 00000000 00000000</UpgradeCode>
+                <VehName>Corvette GT3 #96 by eXa</VehName>
+                <Category>Callaway, Callaway Corvette C7 GT3-R</Category>
+                <CarType>Callaway Corvette C7 GT3-R</CarType>
+                <CarClass>GT3</CarClass>
+                <CarNumber>96</CarNumber>
+                <TeamName>eXa-Online Racing Team</TeamName>
+                <isPlayer>1</isPlayer>
+                <ServerScored>1</ServerScored>
+                <Position>1</Position>
+                <ClassPosition>1</ClassPosition>
+                <Points>0</Points>
+                <ClassPoints>0</ClassPoints>
+                <LapRankIncludingDiscos>1</LapRankIncludingDiscos>
+                <Lap num="1" p="1" et="--.---" fuel="0.388" twfl="0.996" twfr="0.996" twrl="0.996" twrr="0.996" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+                <Lap num="2" p="1" et="7733.5464" s1="23.7661" s2="47.7754" s3="33.4766" fuel="0.361" twfl="0.988" twfr="0.992" twrl="0.992" twrr="0.992" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">105.0181</Lap>
+                <Lap num="3" p="1" et="7838.5645" s1="22.9053" s2="48.6104" fuel="0.416" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+                <Lap num="4" p="1" et="7913.0376" fuel="0.388" twfl="0.992" twfr="0.996" twrl="0.992" twrr="0.992" fcompound="1,S8M (Medium)" rcompound="1,S8M (Medium)">--.----</Lap>
+                <Lap num="5" p="1" et="8111.1699" s1="22.6582" s2="47.2910" s3="32.7363" fuel="0.361" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">102.6855</Lap>
+                <Lap num="6" p="1" et="8213.8555" s1="22.1064" s2="46.9014" s3="33.0156" fuel="0.333" twfl="0.976" twfr="0.984" twrl="0.976" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">102.0234</Lap>
+                <Lap num="7" p="1" et="8315.8789" s1="22.1318" s2="47.3896" s3="32.6855" fuel="0.310" twfl="0.969" twfr="0.980" twrl="0.969" twrr="0.973" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">102.2070</Lap>
+                <Lap num="8" p="1" et="8418.0859" s1="22.4395" s2="47.0596" s3="32.3818" fuel="0.282" twfl="0.961" twfr="0.976" twrl="0.957" twrr="0.965" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">101.8809</Lap>
+                <Lap num="9" p="1" et="8519.9668" s1="22.6504" s2="46.7266" s3="33.1025" fuel="0.255" twfl="0.953" twfr="0.973" twrl="0.949" twrr="0.961" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">102.4795</Lap>
+                <Lap num="10" p="1" et="8622.4463" s1="22.0371" s2="46.4775" s3="32.1064" fuel="0.227" twfl="0.941" twfr="0.965" twrl="0.937" twrr="0.953" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">100.6211</Lap>
+                <Lap num="11" p="1" et="8723.0674" s1="22.1816" s2="47.1768" s3="32.6992" fuel="0.200" twfl="0.933" twfr="0.957" twrl="0.925" twrr="0.945" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">102.0576</Lap>
+                <Lap num="12" p="1" et="8825.1250" s1="22.2793" s2="47.2236" fuel="0.416" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+                <Lap num="13" p="1" et="8923.5732" fuel="0.416" twfl="1.000" twfr="1.000" twrl="1.000" twrr="1.000" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+                <Lap num="14" p="1" et="8923.5732" fuel="0.388" twfl="0.992" twfr="0.996" twrl="0.992" twrr="0.996" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">--.----</Lap>
+                <Lap num="15" p="1" et="9144.4922" s1="22.5791" s2="47.2490" s3="32.4189" fuel="0.361" twfl="0.984" twfr="0.992" twrl="0.984" twrr="0.988" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">102.2471</Lap>
+                <Lap num="16" p="1" et="9246.7393" s1="22.6953" s2="46.7246" s3="32.2090" fuel="0.333" twfl="0.976" twfr="0.984" twrl="0.976" twrr="0.980" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">101.6289</Lap>
+                <Lap num="17" p="1" et="9348.3682" s1="22.0059" s2="46.8594" s3="32.8984" fuel="0.306" twfl="0.969" twfr="0.980" twrl="0.969" twrr="0.973" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)">101.7637</Lap>
+                <Lap num="18" p="1" et="9450.1318" s1="22.5820" s2="46.4395" fuel="0.278" twfl="0.961" twfr="0.976" twrl="0.961" twrr="0.969" fcompound="0,S7M (Soft)" rcompound="0,S7M (Soft)" pit="1">--.----</Lap>
+                <BestLapTime>100.6211</BestLapTime>
+                <Laps>18</Laps>
+                <Pitstops>0</Pitstops>
+                <FinishStatus>None</FinishStatus>
+                <ControlAndAids startLap="1" endLap="12">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+                <ControlAndAids startLap="13" endLap="13">UnknownControl</ControlAndAids>
+                <ControlAndAids startLap="14" endLap="18">PlayerControl,Clutch,AutoBlip</ControlAndAids>
+            </Driver>
+        </Practice1>
+    </RaceResults>
+</rFactorXML>
